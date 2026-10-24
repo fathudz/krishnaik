@@ -1,3 +1,4 @@
 WPU RESOLUSI
 -konsisten shalat berjamaah
--membuat platform untuk pengelolaan video
+-membuat platform untuk streaming video
+-coba kita tambahkan sesuatu
