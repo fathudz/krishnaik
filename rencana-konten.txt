@@ -1,2 +1,3 @@
 saya mau buat javascript es6
 kenapa saya gak bisa masuk?
+i want to add something here
